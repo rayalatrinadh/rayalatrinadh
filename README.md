@@ -42,6 +42,7 @@ Experienced software engineer with 3+ years in fintech and payments <img src="ht
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: Pursuing a Masters in CS from Illinois Tech
+- Actively seeking 2024 summer internships in software engineering.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Trinadh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trinadhrayala/)
 
