@@ -38,9 +38,6 @@
 Experienced software engineer with 3+ years in fintech and payments <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: Skilled in Java, Spring Boot, ReactJS, and database technologies.
-
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: Pursuing a Masters in CS from Illinois Tech
 - Actively seeking 2024 summer internships in software engineering.
 
