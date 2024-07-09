@@ -1,6 +1,4 @@
-# itsTrinadh 👋
-
-
+# itsTrinadh
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" title="Trinadh Rayala"/>
 
@@ -35,11 +33,13 @@
 </div>
 
 ### :man_technologist: About Me :
-Experienced software engineer with 3+ years in fintech and payments <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @EX-Capgemini, @EX-FSS
 
-- :telescope: Skilled in Java, Spring Boot, ReactJS, and database technologies.
-- :zap: Pursuing a Masters in CS from Illinois Tech
-- Actively seeking 2024 summer internships in software engineering.
+- :telescope: I am a computer science graduate student at the Illinois Institute of Technology, Chicago.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Trinadh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trinadhrayala/)
 
@@ -76,10 +76,12 @@ Experienced software engineer with 3+ years in fintech and payments <img src="ht
 
 <!-- BLOG-POST-LIST:START -->
  <div id="badges">
-<a href="https://medium.com/@3nadhmail">
+<a href="https://medium.com/@trinadhrayala">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
 <!-- BLOG-POST-LIST:END -->
 </a>
  </div>
 
 </div>
+
+
