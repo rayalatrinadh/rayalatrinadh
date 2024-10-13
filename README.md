@@ -1,15 +1,9 @@
-# welcome To Git Profile!
+# Welcome to My GitHub!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" title="Trinadh Rayala"/>
-
-<!-- <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
- -->
 
- <div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/trinadhrayala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -21,27 +15,39 @@
   </a>
 </div>
 
-
-
-<h1>
-  hey there
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there!
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @EX-Capgemini, @EX-FSS
+### 👨‍💻 About Me :
+I'm **Trinadh Rayala**, an experienced Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a strong focus on **full stack development** in the fintech industry. I specialize in **Java Full Stack Development**, working extensively with **Spring Boot**, **Microservices**, **REST APIs**, and various cloud technologies like **AWS** and **Docker**.
 
-- :telescope: I am a computer science graduate student at the Illinois Institute of Technology, Chicago.
+- 🎓 I am a Computer Science graduate student at **Illinois Institute of Technology, Chicago**.
+  
+- 🚀 With hands-on experience in building scalable solutions, I've transformed **monolithic legacy systems into microservices architectures**, enabling smoother deployments and better maintainability. I've designed and implemented **ETL pipelines**, optimized **data persistence layers**, and integrated **third-party APIs** to enhance platform functionality.
 
-- :seedling: Exploring Technical Content Writing.
+- **Technical Expertise**:
+  - **Backend Development**: Java 8/11/17/21, Spring Boot, Spring MVC, Hibernate, JPA, RESTful APIs, Microservices
+  - **Frontend Development**: React.js, Vue.js, AngularJS, JavaScript, HTML5, CSS3
+  - **Cloud & DevOps**: AWS, Jenkins, Docker, Kubernetes, CI/CD Pipelines, Infrastructure as Code (IaC), Ansible
+  - **Data & Big Data**: MySQL, MongoDB, Oracle, Kafka, Hadoop, Spark
+  - **Test-Driven Development (TDD)**: Developed automated REST API tests and integrated them with CI/CD pipelines
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+-💼 I've had the opportunity to collaborate with:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Trinadh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trinadhrayala/)
+<div align="center"> <a href="https://www.cccis.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/CCC.jpg?raw=true" title="CCC Intelligent Solutions" alt="CCC Intelligent Solutions" width="120" height="120"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.capgemini.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/Capgem.jpg?raw=true" title="Capgemini" alt="Capgemini" width="120" height="120"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.fss.com/" target="_blank"> <img src="https://github.com/rayalatrinadh/workExperience/blob/main/fss.jpg?raw=true" title="FSS" alt="FSS" width="120" height="120"/> </a> </div>
+I have led initiatives to build and deploy critical solutions, optimize system performance, and enhance user experiences. I'm passionate about applying DevOps practices to streamline workflows, reduce deployment time, and ensure product stability.
+
+- 🌱 I'm also exploring **Technical Content Writing** and enjoy sharing knowledge with the community.
+
+- ⚡ In my free time, I solve problems on **LeetCode** and read tech articles to stay updated with the latest trends in software development.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Trinadh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trinadhrayala/)
 
 ---
 
@@ -83,5 +89,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </div>
 
 </div>
-
-
